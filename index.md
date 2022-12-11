@@ -4,3 +4,4 @@ I am a 20th grade student in the acm honor class of Shanghai Jiaotong University
 
 here is my [cv](https://docdro.id/eFHoD2o)
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=vKDFbzvNtdhkO6iWYD25euhaXiT5AUrPPEenMbdR3I0&cl=ffffff&w=a"></script>
