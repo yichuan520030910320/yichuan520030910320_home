@@ -6,7 +6,7 @@ The most recent work is to complete the construction and optimization of a dynam
 
 Currently, I am also working with Prof.Li [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) on a project related with GNN
 
-If you are willing to know more details, you can see my [cv](https://docdro.id/KSlE1tS) here
+If you are willing to know more details, you can see my [cv](https://docdro.id/KSlE1tS) here.
 
 
 
