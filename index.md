@@ -10,7 +10,7 @@ Weihao Cui, Zhenhua Han, Lingji Ouyang, **Yichuan Wang**, Ningxin Zheng, Lingxia
 
 Currently, I am also working with Prof.Li [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) on a project related with GNN
 
-If you are willing to know more details, you can see my [cv](https://docdro.id/KSlE1tS) here.
+If you are willing to know more details, you can see my [cv](https://docdro.id/BYefBJB) here.
 
 
 
