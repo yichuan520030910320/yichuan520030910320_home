@@ -8,7 +8,7 @@ The paper is accepted by OSDI23 now.
 
 Weihao Cui, Zhenhua Han, Lingji Ouyang, **Yichuan Wang**, Ningxin Zheng, Lingxiao Ma, Yuqing Yang, Fan Yang, Jilong Xue, Lili Qiu, Lidong Zhou, Quan Chen, Haisheng Tan, Minyi Guo. **Optimizing Dynamic Neural Networks with Brainstorm** .( To appear at **OSDI** **2023** ).
 
-Currently, I am also working with Prof.Li [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) on a project related with GNN
+Currently, I am also working with Prof.Li [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) on a project related with large scale GNN training 
 
 If you are willing to know more details, you can see my [cv](https://docdro.id/BYefBJB) here.
 
