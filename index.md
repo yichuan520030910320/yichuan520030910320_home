@@ -1,4 +1,4 @@
-## Welcome to Yichuan Wang Home Pages
+## Welcome to Yichuan Wang(SJTU) Home Pages
 
 I am a 3rd year undergraduate student in the acm honor class of Shanghai Jiaotong University, majoring in computer science and technology. I am interested in machine learning systems and high-performance computing (to be more detailed maybe distributed systems for AI large model training, and memory optimization solutions for AI model training), supervised by [quan-chen](https://www.cs.sjtu.edu.cn/~chen-quan/) at EPCC. I like to communicate with different people, so you can feel free to contact me at yichuanjiaoda@sjtu.edu.cn or wechat:15858459091 or yichuanwang0324
 
