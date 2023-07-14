@@ -14,7 +14,7 @@ The most recent work is to complete the construction and optimization of a dynam
 
 The paper is accepted by OSDI23 now.
 
-Weihao Cui, Zhenhua Han, Lingji Ouyang, **Yichuan Wang**, Ningxin Zheng, Lingxiao Ma, Yuqing Yang, Fan Yang, Jilong Xue, Lili Qiu, Lidong Zhou, Quan Chen, Haisheng Tan, Minyi Guo. **Optimizing Dynamic Neural Networks with Brainstorm** .( To appear at **OSDI** **2023** ).
+Weihao Cui, Zhenhua Han, Lingji Ouyang, **Yichuan Wang**, Ningxin Zheng, Lingxiao Ma, Yuqing Yang, Fan Yang, Jilong Xue, Lili Qiu, Lidong Zhou, Quan Chen, Haisheng Tan, Minyi Guo. **Optimizing Dynamic Neural Networks with Brainstorm** .[pdf](https://www.usenix.org/system/files/osdi23-cui.pdf)
 
 
 
@@ -22,7 +22,7 @@ Currently, I am also working with Prof.Li [Jinyang Li](http://www.news.cs.nyu.ed
 
 I will be in NYC for the second half of 2023.
 
-If you are willing to know more details, you can see my [cv](https://docdro.id/YEanm7j) here.
+If you are willing to know more details, you can see my [cv](https://docdro.id/AeZ1dMc) here.
 
 
 
