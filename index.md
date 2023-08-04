@@ -2,11 +2,15 @@
 
 I am a 3rd year undergraduate student in the ACM honor class of Shanghai Jiaotong University, majoring in computer science and technology. I am interested in machine learning systems and high-performance computing (to be more detailed maybe distributed systems for large model training, and memory optimization solutions for AI model training).
 
-I like to communicate with different people, so you can feel free to contact me at yichuanjiaoda@sjtu.edu.cn or wechat:15858459091 or yichuanwang0324
-
-
-
 **! Earnestly looking for Phd position in 2024 Fall**
+
+
+
+Currently, I am also working with Prof.Li [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) in NYU on a project related with large scale GNN training 
+
+I will be in NYC for the second half of 2023.
+
+
 
 In SJTU, I am supervised by [quan-chen](https://www.cs.sjtu.edu.cn/~chen-quan/) at EPCC. 
 
@@ -18,9 +22,9 @@ Weihao Cui, Zhenhua Han, Lingji Ouyang, **Yichuan Wang**, Ningxin Zheng, Lingxia
 
 
 
-Currently, I am also working with Prof.Li [Jinyang Li](http://www.news.cs.nyu.edu/~jinyang/) in NYU on a project related with large scale GNN training 
+I like to communicate with different people, so you can feel free to contact me at yichuanjiaoda@sjtu.edu.cn or wechat:15858459091 or yichuanwang0324
 
-I will be in NYC for the second half of 2023.
+
 
 If you are willing to know more details, you can see my [cv](https://docdro.id/AeZ1dMc) here.
 
