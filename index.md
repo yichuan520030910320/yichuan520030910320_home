@@ -21,9 +21,7 @@ The paper is accepted by OSDI23 now.
 Weihao Cui, Zhenhua Han, Lingji Ouyang, **Yichuan Wang**, Ningxin Zheng, Lingxiao Ma, Yuqing Yang, Fan Yang, Jilong Xue, Lili Qiu, Lidong Zhou, Quan Chen, Haisheng Tan, Minyi Guo. **Optimizing Dynamic Neural Networks with Brainstorm** .[pdf](https://www.usenix.org/system/files/osdi23-cui.pdf)
 
 
-
-I like to communicate with different people, so you can feel free to contact me at yichuanjiaoda@sjtu.edu.cn or wechat:15858459091 or yichuanwang0324
-
+I like to communicate with different people, so you can feel free to contact me at yichuanjiaoda@sjtu.edu.cn or yichuanmistygrass@gmail.com oryw8143@nyu.edu or wechat:15858459091 or yichuanwang0324 or [twitter](https://twitter.com/YichuanM)
 
 
 If you are willing to know more details, you can see my [cv](https://docdro.id/AeZ1dMc) here.
