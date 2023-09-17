@@ -24,7 +24,7 @@ Weihao Cui, Zhenhua Han, Lingji Ouyang, **Yichuan Wang**, Ningxin Zheng, Lingxia
 I like to communicate with different people, so you can feel free to contact me at yichuanjiaoda@sjtu.edu.cn or yichuanmistygrass@gmail.com oryw8143@nyu.edu or wechat:15858459091 or yichuanwang0324 or [twitter](https://twitter.com/YichuanM)
 
 
-If you are willing to know more details, you can see my [cv](https://docdro.id/AeZ1dMc) here.
+If you are willing to know more details, you can see my [cv](https://docdro.id/DmVIMJv) here.
 
 
 
